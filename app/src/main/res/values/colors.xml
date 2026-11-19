@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="page_background">#F4F7FC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="ink">#19263B</color>
+    <color name="muted">#66758A</color>
+    <color name="accent">#2E5BC7</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="overlay_text">#FFFFFF</color>
+    <color name="overlay_secondary">#DCE7FA</color>
+    <color name="overlay_badge_text">#203155</color>
+</resources>

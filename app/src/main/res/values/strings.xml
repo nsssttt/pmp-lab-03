@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layout Studio</string>
+    <string name="lab_badge">LAB 03</string>
+    <string name="page_title">Layouts in layers</string>
+    <string name="page_subtitle">Explore how LinearLayout and FrameLayout arrange views.</string>
+    <string name="linear_mode">LinearLayout</string>
+    <string name="frame_mode">FrameLayout</string>
+    <string name="mode_caption">A live example of nested Android layouts</string>
+    <string name="show_frame">Show FrameLayout example</string>
+    <string name="show_linear">Show LinearLayout example</string>
+    <string name="first_card_title">Vertical stack</string>
+    <string name="first_card_body">A nested row keeps icon and text aligned.</string>
+    <string name="second_card_title">Views flow in order</string>
+    <string name="second_card_body">Each child uses its measured height, so the next card naturally follows below it.</string>
+    <string name="nested_title">Horizontal row inside a vertical column</string>
+    <string name="component_one">First component</string>
+    <string name="component_two">Second component</string>
+    <string name="frame_explanation">FrameLayout places children in one shared area. Later children draw above earlier ones.</string>
+    <string name="overlay_title">Views share one frame</string>
+    <string name="overlay_body">The caption and badge are drawn on top of the background shape.</string>
+    <string name="overlay_badge">OVERLAY</string>
+    <string name="overlay_description">Example FrameLayout with a background circle, a caption panel and a badge layered on top.</string>
+    <string name="brand_mark_description">Decorative blue mark</string>
+</resources>
